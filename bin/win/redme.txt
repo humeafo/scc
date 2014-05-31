@@ -1,8 +1,0 @@
-modified CLANG to support -fPIC under windows/COFF
-
-using msvc12 as example
-
-vcvars.bat
-clang ..\..\examples\test_cc_1.cc -o test.exe -fPIC
-
-disassemble test.exe main function and you'll see PIC code generated.

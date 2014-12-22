@@ -34,6 +34,6 @@ No.
 
 License:
 
-Any commercial usage must be allowed by the user. Any CTF usage is should explicitly 
+Any commercial usage must be allowed by the user. Any CTF usage should explicitly 
 mention the work.
 

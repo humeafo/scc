@@ -10,5 +10,12 @@ void scmain() {
 
 int main(int argc, char *argv[]) {
   impFixMeth = impFix_hash;
+  /*
+  pscmain scentry_ptr = 0;
+  void* scentry_args[MAX_SCMAIN_ARGS_COUNT];
+
+  scentry_ptr must be set and some args is allowed if you fill in scmain_args array
+  */
+  scentry_ptr = (pscmain)scmain;
   return mainDefault(argc, argv, 0);
 }

@@ -2,6 +2,8 @@
 // Program Name:			Calculator
 // Programmer:			Arati Rajbhandari
 // modified by Humeafo
+// scc -v -f "-Xlinker gdi32.lib -Xlinker user32.lib " -t x86 D:\mdev\compiler\scc\shlcodes\win_shlc_api_calc.cc
+// scc -v -f "-Xlinker gdi32.lib -Xlinker user32.lib " -t x64 D:\mdev\compiler\scc\shlcodes\win_shlc_api_calc.cc
 /*********************************************************************/
 #include "wshlchdr.h"
 #include <windows.h>

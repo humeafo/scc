@@ -31,3 +31,9 @@ NB, It's for fun only, it's a hack on a weekend, don't blame me for not working 
 [4] OpenSource or not?
 
 No.
+
+License:
+
+Any commercial usage must be allowed by the user. Any CTF usage is should explicitly 
+mention the work.
+
